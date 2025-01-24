@@ -20,4 +20,4 @@ public class Main {
         System.out.printf("\nПри внеcении 1003 бонус:");
         System.out.println(service.calculate(1003));
     }
-}
+}connect 46.174.52.109:27028
